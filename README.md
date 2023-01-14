@@ -6,3 +6,6 @@ how to run the app:
 3- create database & configure environment variables with the database name,  username & password
 4- run: php artisan migrate
 5- 
+
+----------
+appointment: userid - address - date - customer_name - customer_email - customer_phone
